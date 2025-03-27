@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssuf Helaly</h1>
 <h3 align="center">A passionate and curious software developer</h3>
 
-- 👨‍💻 I have work experience as a **Intern Developer at Solink**
+- 👨‍💻 I have work experience as a **Full-Stack Developer at Nokia and a Jr. Developer at Solink**
 
 - 🌱 I’m currently learning **software developing a the University of Ottawa**
 
